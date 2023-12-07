@@ -1,0 +1,26 @@
+{
+  "name": "@shpaw415/cloudflare-api",
+  "module": "index.ts",
+  "type": "module",
+  "version": "0.0.2",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shpaw415/cloudflareAPI.git"
+  },
+  "keywords": [
+    "cloudflare",
+    "api"
+  ],
+  "author": "justin halle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shpaw415/cloudflareAPI/issues"
+  },
+  "homepage": "https://github.com/shpaw415/cloudflareAPI#readme"
+}
